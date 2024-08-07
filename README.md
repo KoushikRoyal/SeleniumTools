@@ -1,3 +1,3 @@
 selenium is an opensource tool which is used for automation tests carried in a webbrowser.
-it can build testcases veryb easy.
+it can build testcases very easy.
 selenium testscripts sre integrated with the tools such as testNG,JUNit and so on ......
